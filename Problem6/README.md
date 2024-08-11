@@ -1,0 +1,1 @@
+<h1>Print a solid rectangle</h1>
