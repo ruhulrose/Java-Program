@@ -1,0 +1,1 @@
+<h1>Write a code to show a triangle of numbers.</h1>
