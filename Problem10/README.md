@@ -1,0 +1,1 @@
+<h1>Write a code to show a invers triangle with *</h1>
