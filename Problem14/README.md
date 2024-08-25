@@ -1,0 +1,1 @@
+<h1>A program which show a triangle of 0 and 1</h1>
