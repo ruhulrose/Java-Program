@@ -1,0 +1,1 @@
+<h1>Find the maximum & minimum number in an array of integers</h1>
