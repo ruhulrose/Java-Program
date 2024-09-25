@@ -1,0 +1,1 @@
+<h1>Write a java program which take an integer and show that number is armstrong or not.</h1>
