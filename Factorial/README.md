@@ -1,0 +1,1 @@
+<h1>Write a program which calculate factorial number of n given number.</h1>

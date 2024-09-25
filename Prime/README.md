@@ -1,0 +1,1 @@
+<h1>Write a java program which find the number is prime or not prime</h1>

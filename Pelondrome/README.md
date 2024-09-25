@@ -1,0 +1,1 @@
+<h1>Write a java program which will take a number and cheek that number is pelondrome or not.</h1>
